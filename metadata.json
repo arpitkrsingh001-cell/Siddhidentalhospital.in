@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Rohit Siddhi Dental Hospital",
+  "description": "Premium modern dental hospital website for Dr. Rohit Siddhi Dental Hospital in Siwan, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
